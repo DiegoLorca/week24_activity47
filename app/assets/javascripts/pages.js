@@ -11,8 +11,8 @@ $(function() {
      var rojo =  $('#red').val(),
          verde =  $('#green').val(),
          azul =  $('#blue').val()
-   $('.square').css({"background-color":"rgb("+rojo+", "+verde+", "+azul+")"});
-   $('#value_color').text('rgb(' + $('#red').val() + ', ' + $('#green').val() + ', ' + $('#blue').val() + ')');
+   $('.square').css({"background-color":"rgb(" + rojo + ", " + verde + ", " + azul + ")"});
+   $('#value_color').text('rgb(' + rojo + ', ' + verde + ', ' + azul + ')');
    }
  });
 });
