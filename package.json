@@ -1,0 +1,9 @@
+{
+  "name": "ejercicio1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "jquery-knob": "^1.2.11"
+  }
+}
